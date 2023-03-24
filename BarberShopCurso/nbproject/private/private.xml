@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/Models/Agendamento.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/view/Agenda.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/Models/Servico.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/Models/DAO/Banco.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/view/Main.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/Controller/LoginController.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/Models/DAO/AgendamentoDAO.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/Models/Pessoa.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/Models/DAO/ClienteDAO.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/Models/Usuario.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/Models/DAO/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/Models/Cliente.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/Models/DAO/ServicoDAO.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/Controller/Helper/LoginHelper.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/Controller/MenuPrincipalController.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/Controller/Helper/AgendaHelper.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/view/MenuPrincipal.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/Controller/AgendaController.java</file>
+            <file>file:/C:/Users/Mariana/Documents/NetBeansProjects/BarberShopCurso/src/view/Login.java</file>
+        </group>
+    </open-files>
+</project-private>
